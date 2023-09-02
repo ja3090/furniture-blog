@@ -35,6 +35,11 @@ export default function Hero({ isHome, blogTitle, blogAuthor, blogDate, img }) {
           </Link>
         </li>
         <li>
+          <Link href="https://github.com/jaw163/furniture-blog">
+            <h2>GitHub</h2>
+          </Link>
+        </li>
+        <li>
           <Link href="#contact">
             <h2>Contact</h2>
           </Link>
