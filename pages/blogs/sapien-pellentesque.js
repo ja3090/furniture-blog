@@ -111,7 +111,7 @@ export default function BlogPage() {
           title="Lorem Ipsum Dolor Sit Amet"
           blurb="Lorem ipsum dolor sit amet, consectetur
           adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-          dolore magna aliqua."
+          dolore."
           author="John Doe"
           date="02/09/2023"
         />

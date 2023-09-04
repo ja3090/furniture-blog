@@ -27,7 +27,7 @@ export default function Home() {
               slug={"quis-varius"}
               imageSrc="/otherBlogs/livingroomDone.jpg"
               title="Quis Varius Quam Quisque"
-              blurb="Sit amet aliquam id diam maecenas ultricies mi. Quis varius quam quisque id diam vel quam elementum pulvinar. Sagittis purus sit amet volutpat consequat mauris."
+              blurb="Sit amet aliquam id diam maecenas ultricies mi. Quis varius quam quisque id diam vel quam elementum pulvinar."
               author="John Doe"
               date="31/08/2023"
             />
@@ -35,7 +35,7 @@ export default function Home() {
               slug={"sapien-pellentesque"}
               imageSrc="/otherBlogs/sofaandbooksDone.jpg"
               title="Sapien Pellentesque Habitant"
-              blurb="Sapien pellentesque habitant morbi tristique senectus et. Suscipit adipiscing bibendum est ultricies integer quis. Non blandit massa enim nec dui nunc mattis enim."
+              blurb="Sapien pellentesque habitant morbi tristique senectus et. Suscipit adipiscing bibendum est ultricies integer quis."
               author="John Doe"
               date="05/08/2023"
             />
@@ -43,7 +43,7 @@ export default function Home() {
               slug={"augue-interdum"}
               imageSrc="/otherBlogs/tablewater.jpg"
               title="Augue Interdum Velit Euismod In"
-              blurb="Augue interdum velit euismod in. Sit amet cursus sit amet dictum sit amet justo donec. Pulvinar pellentesque habitant morbi tristique senectus et netus."
+              blurb="Augue interdum velit euismod in. Sit amet cursus sit amet dictum sit amet justo donec."
               author="John Doe"
               date="22/07/2023"
             />
